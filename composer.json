@@ -1,0 +1,14 @@
+{
+  "name": "iliyazhid/algorithms_learning",
+  "autoload": {
+    "psr-4": {
+      "AlgorithmsLearning\\": "lib/"
+    }
+  },
+  "require": {
+    "phpunit/phpunit": "^9.5"
+  },
+  "scripts": {
+    "test": "phpunit tests/"
+  }
+}
